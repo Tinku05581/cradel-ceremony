@@ -1,0 +1,21 @@
+h1{
+    text-align: center;
+}
+h1{
+    font-style: italic;
+    -webkit-text-fill-color: chocolate;
+}
+.background{
+    background-image: url(./baby\ cradle.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 100%;
+    width: 100%;
+    opacity: 60%;
+}
+.small{
+    background-image: url(./IMG_2449.jpg);
+    background-size: cover;
+    background-position: center;
+    height:2;
+}
